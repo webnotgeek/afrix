@@ -69,7 +69,7 @@
                 <div class="inner-container">
                     <!--Logo-->
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="<?php bloginfo('template_directory') ?>/assets/images/logo-v2.png" alt=""></a></div>
+                        <div class="logo"><a href="index.html"><img src="<?php bloginfo('template_directory') ?>/assets/images/afrix-logo.png" alt="" width="240"></a></div>
                     </div>
                     <div class="right-column">
                         <!--Nav Box-->
@@ -169,7 +169,7 @@
                     <div class="inner-container">
                         <!--Logo-->
                         <div class="logo-box">
-                            <div class="logo"><a href="index.html"><img src="<?php bloginfo('template_directory') ?>/assets/images/logo-v2.png" alt=""></a></div>
+                            <div class="logo"><a href="index.html"><img src="<?php bloginfo('template_directory') ?>/assets/images/afrix-logo.png" width="210" alt=""></a></div>
                         </div>
                         <div class="header-left-option">
                             <div class="option-box">
@@ -226,7 +226,7 @@
             <div class="close-btn"><span class="icon flaticon-remove"></span></div>
             
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.html"><img src="<?php bloginfo('template_directory') ?>/assets/images/logo-v2.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.html"><img src="<?php bloginfo('template_directory') ?>/assets/images/afrix-logo.png" width="210" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
 				<!--Social Links-->
 				<div class="social-links">

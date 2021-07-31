@@ -1001,7 +1001,7 @@ img {
 .main-menu .navigation>li>ul {
     position: absolute;
     left: 0px;
-    top: 100%;
+    top: 82px;
     width: -webkit-max-content;
     width: -moz-max-content;
     width: max-content;
@@ -1174,6 +1174,12 @@ img {
     font-size: 16px;
     font-weight: 400;
     z-index: 5;
+}
+
+
+.main-menu .navigation>li:hover .sub-menu {
+    opacity: 1;
+    visibility: visible;
 }
 
 .main-menu .navigation>li.dropdown:hover>ul {

@@ -3,7 +3,7 @@
         <div class="footer-top">
             <div class="auto-container">
                 <div class="wrapper-box">
-                    <div class="logo"><a href="index.html"><img src="<?php bloginfo('template_directory') ?>/assets/images/logo-v2.png" alt=""></a></div>
+                    <div class="logo"><a href="index.html"><img src="<?php bloginfo('template_directory') ?>/assets/images/afrix-logo.png" width="210" alt=""></a></div>
                     <div class="newsletter-form-two">
                         <form class="ajax-sub-form" method="post">
                             <div class="form-group">
