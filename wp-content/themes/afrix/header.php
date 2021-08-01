@@ -10,6 +10,7 @@
 <link href="<?php bloginfo('template_directory') ?>/assets/css/responsive.css" rel="stylesheet">
 <!-- Color File -->
 <link href="<?php bloginfo('template_directory') ?>/assets/css/color-2.css" rel="stylesheet">
+<link href="<?php bloginfo('template_directory') ?>/assets/css/custom.css" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Yantramanav:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 

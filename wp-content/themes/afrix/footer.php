@@ -14,13 +14,13 @@
                             </div>
                         </form>
                     </div>
-                    <div class="download-app">
+                    <!-- <div class="download-app">
                         <h4>Download Mobile App</h4>
                         <ul>
                             <li><a href="#"><span class="flaticon-apple"></span> </a></li>
                             <li><a href="#"><span class="flaticon-android"></span> </a></li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -34,11 +34,11 @@
                             <div class="link">
                                 <a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i> More About Us</a>
                             </div>
-                            <div class="download-pdf">
+                            <!-- <div class="download-pdf">
                                 <div class="icon"><img src="<?php bloginfo('template_directory') ?>/assets/images/icons/icon-13.png" alt=""></div>
                                 <h5>Shippers <br> Instructions</h5>
                                 <a href="#"><i class="flaticon-download"></i></a>
-                            </div>
+                            </div> -->
                         </div>                        
                     </div>
                     <div class="col-lg-4">

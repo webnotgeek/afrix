@@ -20,7 +20,6 @@
         </div>
     </div>
 </section>
-
  <!-- Who we are -->
  <section class="who-we-are-section">
         <div class="top-content">
@@ -29,20 +28,19 @@
                     <div class="col-lg-4">
                         <div class="sec-title mb-30">
                             <div class="sub-title">Company</div>
-                            <h2>Provide a <br> Reliable Services <br> Since 1942</h2>
+                            <h2>AFRIX is <br/> an international <br/> trading firm</h2>
                         </div>
                         <div class="experience-year">
                             <div class="icon"><i class="flaticon-package-1"></i></div>
                             <div class="content">
-                                <h3>78 <span>+ Years</span></h3>
-                                <h5>Experience In Logistics</h5>
+                                <h4>Fresh Startup</h4>
+                                <h5>that provides a wide range of services</h5>
                             </div>
                             
                         </div>
-                        <div class="link mb-30"><a href="history.html" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Our History</span></a></div>
                     </div>
                     <div class="col-lg-8">
-                        <div class="image mb-30"><img src="assets/images/resource/image-34.jpg" alt=""></div>
+                        <div class="image mb-30"><img src="<?php bloginfo('template_directory') ?>/assets/images/resource/image-34.jpg" alt=""></div>
                     </div>
                 </div>
             </div>
@@ -50,12 +48,12 @@
         <div class="overview">
             <div class="auto-container">
                 <div class="wrapper-box">
-                    <h2>AFRIX has been operating in the US now, for over 78 years and are part <br>  of a reliable, global integrated network.</h2>
+                    <h2>AFRIX is an international trading firm that provides a wide range of services <br> related to steel trading worldwide</h2>
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="text">
-                                <p>Denounce with righteous indignation and dislike men who are beguiled likes and demoralized by the charms off pleasures of the moments so blinded by desire, that they cannot foresee the pain and trouble.</p>
-                                <p>Indignationdislike men who are so beguiled & demoralized by the charms of pleasure of the moment so blinded by desire.</p>
+                                <p>We pride ourselves in our ability to work with wide network of suppliers worldwide by provide sophisticated quality.</p>
+                                <p>cost effectively, fast delivery and in efficiently managing the risk of moving goods around the world.</p>
                             </div>
                             <div class="author-info wow fadeInUp" data-wow-duration="1500ms">
                                 <div class="video-btn">
@@ -63,7 +61,7 @@
                                 </div>
                                 <div class="signature"><img src="assets/images/resource/sign.png" alt=""></div>
                                 <div>
-                                    <div class="author-title">Roman Primera </div>
+                                    <div class="author-title">Diana Saleh</div>
                                     <div class="designation">CEO & Founder of AFRIX</div>
                                 </div>
                             </div>
@@ -131,11 +129,10 @@
         <div class="auto-container">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="image"><img src="assets/images/resource/image-35.jpg" alt=""></div>
+                    <div class="image"><img src="<?php bloginfo('template_directory') ?>/assets/images/resource/image-35.jpg" alt=""></div>
                 </div>
                 <div class="col-lg-6">
                     <div class="content">  
-                        <div class="badge"><img src="assets/images/resource/badge-3.png" alt=""></div>
                         <!-- Tab panes -->
                         <div class="tab-content wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1200ms">
                             <div class="tab-pane fadeInUp animated active" id="tab-one" role="tabpanel" aria-labelledby="tab-one">
@@ -194,7 +191,7 @@
         <div class="auto-container">
             <div class="sec-title light text-center">
                 <div class="sub-title">Why Choose Us</div>
-                <h2>4 Reasons Why to Choose Our <br> Freight Services</h2>
+                <h2>4 Reasons Why to Choose Our <br> Logistics Services</h2>
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-6 whychooseus-block-four">

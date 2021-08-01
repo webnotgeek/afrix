@@ -27,11 +27,10 @@
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner">
-                                <div class="logo"><img src="<?php bloginfo('template_directory') ?>/assets/images/resource/badge.png" alt=""></div>
+                                <div class="logo"><img src="<?php bloginfo('template_directory') ?>/assets/images/afrix-logo-short.png" width="130" alt=""></div>
                                 <h1>Delivering <br>service on time</h1>
-                                <div class="text"><i class="far fa-meh"></i>4 Types of Freight Services</div>
                                 <div class="link-box">
-                                    <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Get a Quote</span></a>
+
                                 </div>
                             </div>
                         </div>
@@ -42,11 +41,9 @@
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner">
-                                <div class="logo"><img src="<?php bloginfo('template_directory') ?>/assets/images/resource/badge.png" alt=""></div>
+                                <div class="logo"><img src="<?php bloginfo('template_directory') ?>/assets/images/afrix-logo-short.png" width="130" alt=""></div>
                                 <h1>New track <br>                                     for our busines</h1>
-                                <div class="text"><i class="far fa-meh"></i>4 Types of Freight Services</div>
                                 <div class="link-box">
-                                    <a href="service.html" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Our Services</span></a>
                                 </div>
                             </div>                               
                         </div>
@@ -57,11 +54,9 @@
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner">
-                                <div class="logo"><img src="<?php bloginfo('template_directory') ?>/assets/images/resource/badge.png" alt=""></div>
+                                <div class="logo"><img src="<?php bloginfo('template_directory') ?>/assets/images/afrix-logo-short.png" width="130" alt=""></div>
                                 <h1>Quality is <br>our first concern</h1>
-                                <div class="text"><i class="far fa-meh"></i>1000+ Positive Reviews</div>
                                 <div class="link-box">
-                                    <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Testimonials</span></a>
                                 </div>
                             </div>
                         </div>
@@ -82,7 +77,7 @@
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title">About Company</div>
-                <h2>Global Logistics Solution Provider <br>  Since 1942 </h2>
+                <h2>AFRIX is an international trading firm   <br>   <span class="font-size-16"> that provides a wide range of services</span>  </h2>
             </div>
             <div class="row">
                 <div class="col-lg-6">
@@ -90,23 +85,14 @@
                         <div class="shape"><img src="<?php bloginfo('template_directory') ?>/assets/images/resource/image-9.png" alt=""></div>
                         <div class="image-one" data-parallax='{"y": -70}'><img src="<?php bloginfo('template_directory') ?>/assets/images/resource/image-10.jpg" alt=""></div>
                         <div class="image-two" data-parallax='{"y": 70}'><img src="<?php bloginfo('template_directory') ?>/assets/images/resource/image-6.jpg" alt=""></div>
-                        <div class="video-box" style="background-image: url(assets/images/resource/image-11.jpg);"><a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="overlay-link lightbox-image video-fancybox"><i class="flaticon-play-arrow"></i>Video <br>  Presentation</a></div>
+                        <div class="video-box" style="background-image: url(<?php bloginfo('template_directory') ?>/assets/images/resource/image-11.jpg);"><a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="overlay-link lightbox-image video-fancybox"><i class="flaticon-play-arrow"></i>Video <br>  Presentation</a></div>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="content">
                         <div class="quote"><span class="flaticon-right-quote"></span></div>
-                        <h3>Simplifying your freight & logistics needs with a <br>
-                            personal approach.</h3>
-                        <div class="text wow fadeInUp" data-wow-duration="1500ms">Denounce with righteous indignation and dislike men who are  beguiled and demoralized by the charms of pleasure of the moment so blinded by desire, that they cannot foresee the pain and trouble.
-                        </div>
-                        <div class="author-info wow fadeInUp" data-wow-duration="1500ms">
-                            <div class="signature"><img src="<?php bloginfo('template_directory') ?>/assets/images/resource/sign.png" alt=""></div>
-                            <div>
-                                <div class="author-title">Roman Primera </div>
-                                <div class="designation">CEO & Founder of Afrix</div>
-                            </div>
-                        </div>
+                        <h3>AFRIX is an international trading firm that provides a wide range of services related to steel trading worldwide.</h3>
+                        <div class="text wow fadeInUp" data-wow-duration="1500ms">We pride ourselves in our ability to work with wide network of suppliers worldwide by provide sophisticated quality, cost effectively, fast delivery and in efficiently managing the risk of moving goods around the world.</div>
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="icon-box">
@@ -123,7 +109,7 @@
                             <div class="col-md-4">
                                 <div class="icon-box">
                                     <div class="icon"><span class="flaticon-box"></span></div>
-                                    <h4>Real Time <br> Monitoring</h4>
+                                    <h4>Sophiticated <br> Quality</h4>
                                 </div>
                             </div>
                         </div>
@@ -144,7 +130,7 @@
                             <div class="icon"><img src="<?php bloginfo('template_directory') ?>/assets/images/icons/icon-10.png" alt=""></div>
                             <div class="text">Branches Across <br> The World</div>
                             <div class="count-outer count-box">
-                                <span class="count-text" data-speed="3000" data-stop="145">0</span>
+                                <span class="count-text" data-speed="3000" data-stop="3">0</span>
                             </div>
                         </div>
                     </div>
@@ -156,7 +142,7 @@
                             <div class="icon"><img src="<?php bloginfo('template_directory') ?>/assets/images/icons/icon-11.png" alt=""></div>
                             <div class="text">Parcel Delivered <br> By Team</div>
                             <div class="count-outer count-box">
-                                <span class="count-text" data-speed="3000" data-stop="2.6">0</span><span>k</span>
+                                <span class="count-text" data-speed="3000" data-stop="250">0</span>
                             </div>
                         </div>
                     </div>
@@ -168,7 +154,7 @@
                             <div class="icon"><img src="<?php bloginfo('template_directory') ?>/assets/images/icons/icon-12.png" alt=""></div>
                             <div class="text">Tons of Products <br> Transport</div>
                             <div class="count-outer count-box">
-                                <span class="count-text" data-speed="3000" data-stop="7.9">0</span><span>k</span>
+                                <span class="count-text" data-speed="3000" data-stop="120">0</span
                             </div>
                         </div>
                     </div>
@@ -346,11 +332,11 @@
                         <div class="investor wow fadeInRight" data-wow-duration="1500ms">
                             <h2>For Investors Inquire</h2>
                             <div class="image"><img src="<?php bloginfo('template_directory') ?>/assets/images/resource/author-4.jpg" alt=""></div>
-                            <h4>Lillian Grace</h4>
-                            <div class="text"> Manager of Relationship Team</div>
+                            <h4>Diana Saleh</h4>
+                            <div class="text"> Manager of Public Relations</div>
                             <ul class="contact-info">
-                                <li><a href="tel:(+61)32456789"><i class="flaticon-calling"></i>(+61) 324 56 789</a></li>
-                                <li><a href="mailto:investorinquire@Afrix.com"><i class="flaticon-mail"></i>investorinquire@Afrix.com</a></li>
+                                <li><a href="tel:(+61)32456789"><i class="flaticon-calling"></i>(+2) 01006345241</a></li>
+                                <li><a href="mailto:investorinquire@Afrix.com"><i class="flaticon-mail"></i>dianasaleh@afrix.com</a></li>
                             </ul>
                             <form>
                                 <input type="email" placeholder="Your Email Address">
@@ -550,7 +536,7 @@
     </section>
 
     <!-- Testimonials section two -->
-    <section class="testimonials-section-two" style="background-image: url(assets/images/background/bg-9.jpg);">
+    <!-- <section class="testimonials-section-two" style="background-image: url(assets/images/background/bg-9.jpg);">
         <div class="auto-container">
             <div class="sec-title light">
                 <div class="sub-title text-center">Testimonials</div>
@@ -603,13 +589,13 @@
                         </div>
                     </div>
                     <!-- End -->
-                </div>
+                <!-- </div>
             </div>            
         </div>
-    </section>
+    </section> -->
 
     <!-- Clients Logo section -->
-    <section class="clients-logo-section">
+    <!-- <section class="clients-logo-section">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title text-center">Our Clients</div>
@@ -647,7 +633,7 @@
             </div> 
             <div class="link text-center"><a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>View 1000+ Clients</a></div>          
         </div>
-    </section>
+    </section> -->
 
     <!-- News Section Two -->
     <section class="news-section-two">
