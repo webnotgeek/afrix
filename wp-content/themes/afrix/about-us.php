@@ -1,11 +1,12 @@
 <?php  /* Template Name: About Us */ get_header(); ?>
-<section class="page-title" style="background-image: url(assets/images/background/bg-20.jpg);">
-    <div class="background-text">
-        <!-- <div data-parallax='{"x": 100}'>
-            <div class="text-1">AFRIX</div>
-            <div class="text-2">AFRIX</div>
-        </div>                 -->
-    </div>
+
+
+<?php 
+    $backgroundImg = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'full' );
+?>
+
+<section class="page-title" style="background-image: url('<?php echo $backgroundImg[0]; ?>')">
+<?php // the_post_thumbnail(); ?>
     <div class="auto-container">
         <div class="content-box">
             <div class="content-wrapper">
@@ -36,7 +37,6 @@
                                 <h4>Fresh Startup</h4>
                                 <h5>that provides a wide range of services</h5>
                             </div>
-                            
                         </div>
                     </div>
                     <div class="col-lg-8">
