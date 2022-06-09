@@ -21,7 +21,6 @@
         </div>
     </div>
 </section>
-
 <!-- products section -->
 
 <section class="services-section style-two">
@@ -32,7 +31,7 @@
             </div>
 
 
-            <div class="row">
+            <div class="display-flex flex-wrap">
             <?php
                     $args = array(
                         'post_parent' => $post->ID,
@@ -44,7 +43,7 @@
                 ?>
 
                 <?php while ( $child_query->have_posts() ) : $child_query->the_post(); ?>
-                <div class="col-lg-3 service-block">
+                <div class="col col-md-4 service-block">
                     <div class="inner-box">
                         <div class="image-box">
                             <img src="<?php bloginfo('template_url') ?>/assets/images/resource/image-12.jpg" alt="">

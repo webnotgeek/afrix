@@ -5,3 +5,15 @@
 .font-weight-400 {
     font-weight: 400!important;
 }
+
+.display-flex .col {
+    flex: 1 0 0%;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.flex-wrap {
+    flex-wrap: wrap ;
+}

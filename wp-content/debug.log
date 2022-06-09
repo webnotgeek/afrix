@@ -1,0 +1,49 @@
+[04-Sep-2021 19:25:36 UTC] PHP Notice:  Undefined variable: child_query in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 330
+[04-Sep-2021 19:25:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php:330
+Stack trace:
+#0 /Applications/MAMP/htdocs/afrix/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/afrix/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/afrix/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 330
+[04-Sep-2021 19:26:17 UTC] PHP Fatal error:  Cannot redeclare has_children() (previously declared in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php:325) in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 355
+[04-Sep-2021 19:41:03 UTC] PHP Notice:  Object of class WP_Post could not be converted to int in /Applications/MAMP/htdocs/afrix/wp-includes/post.php on line 5653
+[19-Sep-2021 22:23:28 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Post could not be converted to string in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php:355
+Stack trace:
+#0 /Applications/MAMP/htdocs/afrix/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/afrix/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/afrix/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 355
+[19-Sep-2021 22:23:32 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Post could not be converted to string in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php:355
+Stack trace:
+#0 /Applications/MAMP/htdocs/afrix/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/afrix/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/afrix/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 355
+[19-Sep-2021 22:46:18 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 391
+[19-Sep-2021 22:46:18 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 391
+[19-Sep-2021 22:46:18 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 391
+[19-Sep-2021 22:46:18 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 391
+[19-Sep-2021 22:46:50 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 393
+[19-Sep-2021 22:46:50 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 393
+[19-Sep-2021 22:46:50 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 393
+[19-Sep-2021 22:46:50 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 393
+[19-Sep-2021 22:48:56 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 393
+[19-Sep-2021 22:48:56 UTC] PHP Notice:  Trying to get property 'post_title' of non-object in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 393
+[19-Sep-2021 22:51:56 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Query could not be converted to string in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php:392
+Stack trace:
+#0 /Applications/MAMP/htdocs/afrix/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/afrix/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/afrix/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/afrix/wp-content/themes/afrix/products-single.php on line 392
+[03-Apr-2022 11:00:25 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Applications/MAMP/htdocs/afrix/wp-includes/update.php on line 410
+[03-Apr-2022 11:26:10 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/afrix/wp-includes/wp-db.php on line 1753
+[03-Apr-2022 11:26:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/afrix/wp-includes/wp-db.php on line 1753
+[03-Apr-2022 11:28:11 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/afrix/wp-includes/wp-db.php on line 1753
+[03-Apr-2022 11:28:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/afrix/wp-includes/wp-db.php on line 1753
+[03-Apr-2022 11:30:12 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/afrix/wp-includes/wp-db.php on line 1753
+[03-Apr-2022 11:30:53 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/afrix/wp-includes/wp-db.php on line 1753
+[03-Apr-2022 11:31:11 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/afrix/wp-includes/wp-db.php on line 1753
